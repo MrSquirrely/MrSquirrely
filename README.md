@@ -6,6 +6,7 @@ I am a software developer who loves to create things! I use .net technology alon
 I am currently learning Blazor to create my website! [MrSquirrely.net](https://mrsquirrely.net)
 I love to learn new things and always challenge myself with every new project.
 I am also currently learning Unity3D so I can create games.
+
 #Talk to me
 -----
 [james@mrsquirrely.net](mailto:james@mrsquirrely.net)
