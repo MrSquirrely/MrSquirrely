@@ -1,27 +1,33 @@
-#Hello and Welcome to my Branch!👋
------
-#### My name is James but you can just call me Mr. Squirrely!
+# Hi there, I'm James 👋 
+### Online, I go by **Mr. Squirrely**
 
-I am a software developer who loves to create things! I use .net technology along with WPF and Blazor to develop various projects.
-I am currently learning Blazor to create my website! [MrSquirrely.net](https://mrsquirrely.net)
-I love to learn new things and always challenge myself with every new project.
-I am also currently learning Unity3D so I can create games.
+I love creating all types of things—from desktop software and web components to game dev tools. Currently, I'm learning Unity to build a video game, while creating dedicated tools to assist with story writing and worldbuilding along the way.
 
-#Talk to me
------
-[james@mrsquirrely.net](mailto:james@mrsquirrely.net)
+> 🤖 **On AI & Coding:** I enjoy using AI for brainstorming, automation, and specific utility tasks, but when it comes to writing code, I prefer crafting it by hand.
 
-<!--
-**MrSquirrely/MrSquirrely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔭 What I’m Currently Working On
+* 📄 **[Writing Project Manager](https://github.com/MrSquirrely/WritingProjectManger)** – An IDE-style desktop tool designed specifically for authors and story writing.
+* 🚩 **[Razor Flags Component](https://github.com/MrSquirrely/Flags)** – A component library for handling flag rendering in web apps.
+* 📺 **[Ascii Video Converter](https://github.com/MrSquirrely/AsciiConverter)** – A utility to convert video streams into live ASCII art text.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Web & Projects
+* 🏠 **[Main Website](https://mrsquirrely.net)**
+* 🔗 **[Short Url Platform](https://awoo.li/)**
+* 🎮 **[Gaming Server](http://treehouse.li/)**
+* 🎨 **[Game Studio](https://squeakroar.com)**
+
+---
+
+### 🛠️ Tech Stack & Tooling
+`C#` • `.NET` • `WPF` • `Unity` • `XAML` • `Razor`
+
+---
+
+### ⚡ Quick Info
+* 😄 **Pronouns:** He/Him
+* 💖💛💙 **Identity:** Pan Pride
+* 🐿️ **Fun Fact:** Squirrels accidentally plant thousands of new trees every year simply by forgetting where they buried their acorns!
