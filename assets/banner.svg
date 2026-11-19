@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200" width="840" height="200" role="img" aria-label="Hi there, I'm James, also known as Mr. Squirrely">
+  <title>Hi there, I'm James - aka Mr. Squirrely</title>
+  <defs>
+    <clipPath id="card">
+      <rect width="840" height="200" rx="16"/>
+    </clipPath>
+    <radialGradient id="glowPink" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ff218c" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ff218c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#21b1ff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#21b1ff" stop-opacity="0"/>
+    </radialGradient>
+    <g id="acorn">
+      <path d="M-13,-4 C-13,14 -4,22 0,25 C4,22 13,14 13,-4 Z" fill="#e0a84a"/>
+      <path d="M-7,0 C-7,10 -3,16 -1,19" fill="none" stroke="#f6d089" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M-16,-3 C-16,-19 16,-19 16,-3 Z" fill="#8a5a2b"/>
+      <path d="M-11,-9 L-5,-4 M-4,-13 L2,-4 M4,-13 L9,-5" stroke="#6b431d" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="M0,-15 C0,-20 2,-23 5,-25" fill="none" stroke="#6b431d" stroke-width="3" stroke-linecap="round"/>
+    </g>
+  </defs>
+
+  <style>
+    .title { font: 700 40px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+    .mono { font: 21px ui-monospace, SFMono-Regular, "Cascadia Code", Consolas, "Liberation Mono", Menlo, monospace; }
+    .prompt { fill: #ff218c; }
+    .typed { fill: #ffd800; }
+    .caret { fill: #21b1ff; animation: blink 0.9s steps(1) infinite; }
+
+    /* Four phrases share one 16s loop; each owns a 4s slot. Negative delays start every phrase mid-loop, so none of them sits visible while waiting for its turn. */
+    .phrase { opacity: 0; animation: show 16s steps(1) infinite; }
+    .cover { fill: #0d1117; animation: type 16s infinite; }
+    .p2, .p2 .cover, .p2 .slide { animation-delay: -12s; }
+    .p3, .p3 .cover, .p3 .slide { animation-delay: -8s; }
+    .p4, .p4 .cover, .p4 .slide { animation-delay: -4s; }
+
+    /* steps(N) = one step per character, so the cover and caret move a letter at a time. */
+    .p1 .cover { transform-origin: 290.2px 0; animation-timing-function: steps(17); }
+    .p2 .cover { transform-origin: 340.6px 0; animation-timing-function: steps(21); }
+    .p3 .cover { transform-origin: 466.6px 0; animation-timing-function: steps(31); }
+    .p4 .cover { transform-origin: 491.8px 0; animation-timing-function: steps(33); }
+    .p1 .slide { animation: slide1 16s steps(17) infinite; }
+    .p2 .slide { animation: slide2 16s steps(21) -12s infinite; }
+    .p3 .slide { animation: slide3 16s steps(31) -8s infinite; }
+    .p4 .slide { animation: slide4 16s steps(33) -4s infinite; }
+
+    @keyframes show { 0% { opacity: 1; } 25%, 100% { opacity: 0; } }
+    @keyframes type { 0% { transform: scaleX(1); } 9%, 20% { transform: scaleX(0); } 24%, 100% { transform: scaleX(1); } }
+    @keyframes slide1 { 0% { transform: translateX(0); } 9%, 20% { transform: translateX(214.2px); } 24%, 100% { transform: translateX(0); } }
+    @keyframes slide2 { 0% { transform: translateX(0); } 9%, 20% { transform: translateX(264.6px); } 24%, 100% { transform: translateX(0); } }
+    @keyframes slide3 { 0% { transform: translateX(0); } 9%, 20% { transform: translateX(390.6px); } 24%, 100% { transform: translateX(0); } }
+    @keyframes slide4 { 0% { transform: translateX(0); } 9%, 20% { transform: translateX(415.8px); } 24%, 100% { transform: translateX(0); } }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
+
+    .float { animation: float 6s ease-in-out infinite; }
+    .float.b { animation-duration: 7.5s; animation-delay: -2s; }
+    .float.c { animation-duration: 5s; animation-delay: -3.5s; }
+    @keyframes float { 0%, 100% { transform: translateY(-7px) rotate(-6deg); } 50% { transform: translateY(7px) rotate(6deg); } }
+
+    .glow { animation: pulse 8s ease-in-out infinite; }
+    .glow.b { animation-delay: -4s; }
+    @keyframes pulse { 0%, 100% { opacity: 0.55; } 50% { opacity: 1; } }
+
+    .spark { fill: #f0f6fc; animation: twinkle 3.2s ease-in-out infinite; }
+    .spark.b { animation-delay: -1.1s; }
+    .spark.c { animation-delay: -2.2s; }
+    @keyframes twinkle { 0%, 100% { opacity: 0.1; } 50% { opacity: 0.85; } }
+
+    .stripes { animation: shimmer 5s ease-in-out infinite; }
+    @keyframes shimmer { 0%, 100% { opacity: 0.8; } 50% { opacity: 1; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+      .p1 { opacity: 1; }
+      .p1 .cover { transform: scaleX(0); }
+      .p1 .slide { transform: translateX(214.2px); }
+    }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="840" height="200" fill="#0d1117"/>
+
+    <!-- Soft glows, kept to the right so the typed line sits on a flat background. -->
+    <circle class="glow" cx="650" cy="40" r="130" fill="url(#glowPink)"/>
+    <circle class="glow b" cx="780" cy="170" r="130" fill="url(#glowBlue)"/>
+
+    <circle class="spark" cx="560" cy="48" r="2"/>
+    <circle class="spark b" cx="602" cy="150" r="1.6"/>
+    <circle class="spark c" cx="690" cy="24" r="1.8"/>
+    <circle class="spark b" cx="806" cy="62" r="2"/>
+    <circle class="spark c" cx="742" cy="168" r="1.5"/>
+    <circle class="spark" cx="532" cy="120" r="1.4"/>
+
+    <g transform="translate(648 104)"><g class="float"><use href="#acorn" transform="scale(2.1)"/></g></g>
+    <g transform="translate(738 62)"><g class="float b"><use href="#acorn" transform="scale(1.25) rotate(14)"/></g></g>
+    <g transform="translate(766 138)"><g class="float c"><use href="#acorn" transform="scale(0.9) rotate(-18)"/></g></g>
+
+    <text class="title" x="46" y="92">Hi there, I'm James</text>
+
+    <text class="mono prompt" x="48" y="140">&gt;</text>
+
+    <g class="phrase p1">
+      <text class="mono typed" x="76" y="140" textLength="214.2" lengthAdjust="spacing">aka Mr. Squirrely</text>
+      <rect class="cover" x="76" y="118" width="214.2" height="30"/>
+      <g class="slide"><rect class="caret" x="78" y="121" width="11" height="23" rx="1"/></g>
+    </g>
+    <g class="phrase p2">
+      <text class="mono typed" x="76" y="140" textLength="264.6" lengthAdjust="spacing">C# and .NET developer</text>
+      <rect class="cover" x="76" y="118" width="264.6" height="30"/>
+      <g class="slide"><rect class="caret" x="78" y="121" width="11" height="23" rx="1"/></g>
+    </g>
+    <g class="phrase p3">
+      <text class="mono typed" x="76" y="140" textLength="390.6" lengthAdjust="spacing">building tools for storytellers</text>
+      <rect class="cover" x="76" y="118" width="390.6" height="30"/>
+      <g class="slide"><rect class="caret" x="78" y="121" width="11" height="23" rx="1"/></g>
+    </g>
+    <g class="phrase p4">
+      <text class="mono typed" x="76" y="140" textLength="415.8" lengthAdjust="spacing">learning Unity, one bug at a time</text>
+      <rect class="cover" x="76" y="118" width="415.8" height="30"/>
+      <g class="slide"><rect class="caret" x="78" y="121" width="11" height="23" rx="1"/></g>
+    </g>
+
+    <!-- Pan pride stripes -->
+    <g class="stripes">
+      <rect y="185" width="840" height="5" fill="#ff218c"/>
+      <rect y="190" width="840" height="5" fill="#ffd800"/>
+      <rect y="195" width="840" height="5" fill="#21b1ff"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="839" height="199" rx="15.5" fill="none" stroke="#30363d"/>
+</svg>
