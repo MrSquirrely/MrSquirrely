@@ -1,0 +1,23 @@
+# Rewrites the "Recent activity" section of README.md between its START/END markers.
+# https://github.com/jamesgeorge007/github-activity-readme
+name: Recent activity
+
+on:
+  # Every six hours
+  schedule: [{cron: "15 */6 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+      - uses: jamesgeorge007/github-activity-readme@v0.5.0
+        with:
+          COMMIT_MSG: "Update README with recent activity"
+          MAX_LINES: 6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
