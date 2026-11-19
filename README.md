@@ -23,7 +23,7 @@
 Online, I go by **Mr. Squirrely**. I love creating all types of things, from desktop software and web components to game dev tools. Right now I'm learning Unity to build a video game, and making dedicated tools for story writing and worldbuilding along the way.
 
 > [!NOTE]
-> **On AI & coding:** I enjoy using AI for brainstorming, automation, and specific utility tasks, but when it comes to writing code, I prefer crafting it by hand.
+> **On AI & coding:** I use AI to craft code, I know how to code myself but honestly the AI does it far better than I ever could, I test everything before it gets merged.
 
 ## 🔭 What I'm working on
 
