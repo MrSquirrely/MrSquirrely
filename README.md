@@ -65,12 +65,12 @@ Online, I go by **Mr. Squirrely**. I love creating all types of things, from des
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/MrSquirrely/Backdrop.NET/pull/2) in [MrSquirrely/Backdrop.NET](https://github.com/MrSquirrely/Backdrop.NET)
-2. 🎉 Merged PR [#1](https://github.com/MrSquirrely/MrSquirrely/pull/1) in [MrSquirrely/MrSquirrely](https://github.com/MrSquirrely/MrSquirrely)
-3. 💪 Opened PR [#1](https://github.com/MrSquirrely/MrSquirrely/pull/1) in [MrSquirrely/MrSquirrely](https://github.com/MrSquirrely/MrSquirrely)
-4. 🎉 Merged PR [#7](https://github.com/MrSquirrely/Flags/pull/7) in [MrSquirrely/Flags](https://github.com/MrSquirrely/Flags)
-5. 💪 Opened PR [#7](https://github.com/MrSquirrely/Flags/pull/7) in [MrSquirrely/Flags](https://github.com/MrSquirrely/Flags)
-6. 🎉 Merged PR [#6](https://github.com/MrSquirrely/Flags/pull/6) in [MrSquirrely/Flags](https://github.com/MrSquirrely/Flags)
+1. 🎉 Merged PR [#3](https://github.com/MrSquirrely/Backdrop.NET/pull/3) in [MrSquirrely/Backdrop.NET](https://github.com/MrSquirrely/Backdrop.NET)
+2. 💪 Opened PR [#3](https://github.com/MrSquirrely/Backdrop.NET/pull/3) in [MrSquirrely/Backdrop.NET](https://github.com/MrSquirrely/Backdrop.NET)
+3. 🎉 Merged PR [#2](https://github.com/MrSquirrely/Backdrop.NET/pull/2) in [MrSquirrely/Backdrop.NET](https://github.com/MrSquirrely/Backdrop.NET)
+4. 💪 Opened PR [#2](https://github.com/MrSquirrely/Backdrop.NET/pull/2) in [MrSquirrely/Backdrop.NET](https://github.com/MrSquirrely/Backdrop.NET)
+5. 🎉 Merged PR [#1](https://github.com/MrSquirrely/MrSquirrely/pull/1) in [MrSquirrely/MrSquirrely](https://github.com/MrSquirrely/MrSquirrely)
+6. 💪 Opened PR [#1](https://github.com/MrSquirrely/MrSquirrely/pull/1) in [MrSquirrely/MrSquirrely](https://github.com/MrSquirrely/MrSquirrely)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech stack & tooling
