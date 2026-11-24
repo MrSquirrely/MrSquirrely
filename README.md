@@ -65,12 +65,12 @@ Online, I go by **Mr. Squirrely**. I love creating all types of things, from des
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [OmniRead 1.0.0](https://github.com/MrSquirrely/OmniRead/releases/tag/v1.0.0) in [MrSquirrely/OmniRead](https://github.com/MrSquirrely/OmniRead)
-2. 🎉 Merged PR [#3](https://github.com/MrSquirrely/Backdrop.NET/pull/3) in [MrSquirrely/Backdrop.NET](https://github.com/MrSquirrely/Backdrop.NET)
-3. 💪 Opened PR [#3](https://github.com/MrSquirrely/Backdrop.NET/pull/3) in [MrSquirrely/Backdrop.NET](https://github.com/MrSquirrely/Backdrop.NET)
-4. 🎉 Merged PR [#2](https://github.com/MrSquirrely/Backdrop.NET/pull/2) in [MrSquirrely/Backdrop.NET](https://github.com/MrSquirrely/Backdrop.NET)
-5. 💪 Opened PR [#2](https://github.com/MrSquirrely/Backdrop.NET/pull/2) in [MrSquirrely/Backdrop.NET](https://github.com/MrSquirrely/Backdrop.NET)
-6. 🎉 Merged PR [#1](https://github.com/MrSquirrely/MrSquirrely/pull/1) in [MrSquirrely/MrSquirrely](https://github.com/MrSquirrely/MrSquirrely)
+1. 🎉 Merged PR [#6](https://github.com/MrSquirrely/WritingIDE/pull/6) in [MrSquirrely/WritingIDE](https://github.com/MrSquirrely/WritingIDE)
+2. 💪 Opened PR [#6](https://github.com/MrSquirrely/WritingIDE/pull/6) in [MrSquirrely/WritingIDE](https://github.com/MrSquirrely/WritingIDE)
+3. 🚀 Published release [OmniRead 1.3.0](https://github.com/MrSquirrely/OmniRead/releases/tag/v1.3.0) in [MrSquirrely/OmniRead](https://github.com/MrSquirrely/OmniRead)
+4. 🚀 Published release [OmniRead 1.2.0](https://github.com/MrSquirrely/OmniRead/releases/tag/v1.2.0) in [MrSquirrely/OmniRead](https://github.com/MrSquirrely/OmniRead)
+5. 🚀 Published release [OmniRead 1.1.0](https://github.com/MrSquirrely/OmniRead/releases/tag/v1.1.0) in [MrSquirrely/OmniRead](https://github.com/MrSquirrely/OmniRead)
+6. 🚀 Published release [OmniRead 1.0.0](https://github.com/MrSquirrely/OmniRead/releases/tag/v1.0.0) in [MrSquirrely/OmniRead](https://github.com/MrSquirrely/OmniRead)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech stack & tooling
