@@ -65,12 +65,12 @@ Online, I go by **Mr. Squirrely**. I love creating all types of things, from des
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/MrSquirrely/WritingIDE/pull/6) in [MrSquirrely/WritingIDE](https://github.com/MrSquirrely/WritingIDE)
-2. 💪 Opened PR [#6](https://github.com/MrSquirrely/WritingIDE/pull/6) in [MrSquirrely/WritingIDE](https://github.com/MrSquirrely/WritingIDE)
-3. 🚀 Published release [OmniRead 1.3.0](https://github.com/MrSquirrely/OmniRead/releases/tag/v1.3.0) in [MrSquirrely/OmniRead](https://github.com/MrSquirrely/OmniRead)
-4. 🚀 Published release [OmniRead 1.2.0](https://github.com/MrSquirrely/OmniRead/releases/tag/v1.2.0) in [MrSquirrely/OmniRead](https://github.com/MrSquirrely/OmniRead)
-5. 🚀 Published release [OmniRead 1.1.0](https://github.com/MrSquirrely/OmniRead/releases/tag/v1.1.0) in [MrSquirrely/OmniRead](https://github.com/MrSquirrely/OmniRead)
-6. 🚀 Published release [OmniRead 1.0.0](https://github.com/MrSquirrely/OmniRead/releases/tag/v1.0.0) in [MrSquirrely/OmniRead](https://github.com/MrSquirrely/OmniRead)
+1. 🗣 Commented on [#72](https://github.com/MrSquirrely/MuzzleUI/issues/72#issuecomment-7198591434) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
+2. 🗣 Commented on [#71](https://github.com/MrSquirrely/MuzzleUI/issues/71#issuecomment-7198591048) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
+3. ℹ️ Labeled issue [#72](https://github.com/MrSquirrely/MuzzleUI/issues/72) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
+4. ❗ Opened issue [#72](https://github.com/MrSquirrely/MuzzleUI/issues/72) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
+5. ℹ️ Labeled issue [#71](https://github.com/MrSquirrely/MuzzleUI/issues/71) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
+6. ❗ Opened issue [#71](https://github.com/MrSquirrely/MuzzleUI/issues/71) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech stack & tooling
