@@ -65,12 +65,12 @@ Online, I go by **Mr. Squirrely**. I love creating all types of things, from des
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/MrSquirrely/MuzzleUI/issues/72#issuecomment-7198591434) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
-2. 🗣 Commented on [#71](https://github.com/MrSquirrely/MuzzleUI/issues/71#issuecomment-7198591048) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
-3. ℹ️ Labeled issue [#72](https://github.com/MrSquirrely/MuzzleUI/issues/72) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
-4. ❗ Opened issue [#72](https://github.com/MrSquirrely/MuzzleUI/issues/72) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
-5. ℹ️ Labeled issue [#71](https://github.com/MrSquirrely/MuzzleUI/issues/71) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
-6. ❗ Opened issue [#71](https://github.com/MrSquirrely/MuzzleUI/issues/71) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
+1. 🎉 Merged PR [#1](https://github.com/MrSquirrely/AuthenticTapestry/pull/1) in [MrSquirrely/AuthenticTapestry](https://github.com/MrSquirrely/AuthenticTapestry)
+2. 💪 Opened PR [#1](https://github.com/MrSquirrely/AuthenticTapestry/pull/1) in [MrSquirrely/AuthenticTapestry](https://github.com/MrSquirrely/AuthenticTapestry)
+3. 🗣 Commented on [#72](https://github.com/MrSquirrely/MuzzleUI/issues/72#issuecomment-7198591434) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
+4. 🗣 Commented on [#71](https://github.com/MrSquirrely/MuzzleUI/issues/71#issuecomment-7198591048) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
+5. ℹ️ Labeled issue [#72](https://github.com/MrSquirrely/MuzzleUI/issues/72) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
+6. ❗ Opened issue [#72](https://github.com/MrSquirrely/MuzzleUI/issues/72) in [MrSquirrely/MuzzleUI](https://github.com/MrSquirrely/MuzzleUI)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech stack & tooling
